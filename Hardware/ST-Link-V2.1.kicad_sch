@@ -10314,7 +10314,7 @@
 				)
 			)
 		)
-		(property "Value" "CSTCE12M0G55-R0"
+		(property "Value" "CSTCE8M0G55-R0"
 			(at 115.57 87.63 0)
 			(effects
 				(font
@@ -11668,7 +11668,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "STM32F103C8T6"
+		(property "Value" "STM32F103CBT6"
 			(at 54.2641 105.41 0)
 			(effects
 				(font
